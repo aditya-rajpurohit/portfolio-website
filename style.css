@@ -6,3 +6,16 @@
     font-family: "Apple Color Emoji", system-ui;
     background-color: #ffffff;
 }
+
+.dark {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.dark h1 {
+    color: #ffffff;
+}
+
+.dark p {
+    color: #ffffff;
+}
